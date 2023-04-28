@@ -1,2 +1,2 @@
 # random-number-generator
-You can generate any random number using this tool.
+<p>This tool is developed by Roxana Davis. Vist the blog <a href= "https://poppyplaytimeapk.com">here</a></p>
